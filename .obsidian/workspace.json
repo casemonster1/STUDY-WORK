@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOC/AVILA/PEGUNTAS/Application Fee (pendente de pagamento).md",
+                "file": "DOC/AVILA/ASSINAR AFFIDAVIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Application Fee (pendente de pagamento)"
+              "title": "ASSINAR AFFIDAVIT"
             }
           }
         ],
@@ -210,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOC/AVILA/PEGUNTAS/Application Fee (pendente de pagamento).md"
+                "file": "DOC/AVILA/ASSINAR AFFIDAVIT.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Application Fee (pendente de pagamento)"
+              "title": "Outline of ASSINAR AFFIDAVIT"
             }
           }
         ],
@@ -221,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,8 +234,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4243f82e4041888f",
+  "active": "e9487fac02f6c920",
   "lastOpenFiles": [
+    "DOC/Transfer/Transfer - Dúvidas.md",
+    "DOC/AVILA/PEGUNTAS/Application Fee (pendente de pagamento).md",
     "DOC/AVILA/PEGUNTAS/PERGUNTAS.md",
     "DOC/AVILA/PEGUNTAS/Trabalho no Campus.md",
     "DOC/AVILA/Acesso ao sistema, tuition e fees.md",
@@ -262,8 +264,6 @@
     "DOC/MENSAGENS/Cobrança/Demorando para enviar documentos.md",
     "DOC/MENSAGENS/Cobrança/perguntando o nome da universidade.md",
     "DOC/MENSAGENS/Perguntando o nome da universidade.md",
-    "DOC/AVILA/CAMPUS AVILA - LOCAIS.md",
-    "DOC/EVALUATION/Sem doc para Evaluation no Drive.md",
-    "DOC/MENSAGENS/Prof. Inglês + Link Comunidade.md"
+    "DOC/AVILA/CAMPUS AVILA - LOCAIS.md"
   ]
 }
