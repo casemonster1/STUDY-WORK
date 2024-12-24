@@ -1,0 +1,1 @@
+Independentemente da quantidade de sponsors. Só pode ser apenas **1 (Um)** Affidavit of Support

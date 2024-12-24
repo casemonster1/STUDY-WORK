@@ -1,0 +1,1 @@
+não se preocupe com o portal. Ele será atualizado em breve, embora às vezes o processamento possa demorar um pouco. A universidade enviará mais informações em breve por email, então, por enquanto, fique tranquilo. - Seu Visto foi enviado para a Instituição para que processem sua matrícula

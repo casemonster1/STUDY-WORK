@@ -1,0 +1,3 @@
+**PERGUNTA**: Precisa contratar um plano de saude antes de embarcar, certo? Nesse caso qual documento é necessário para comprovar? Já que eles ativam o plano sempre no 1 dia do mês seguinte à contratação.
+
+**RESPOSTA**: Sim, é recomendável contratar um seguro saúde antes de embarcar. o seguro ao irá solicitar pedirá os documentos necessários, mas geralmente ele pedem Passaporte, Comprovante de matrícula, I-20, Comprovante de residência: Em alguns casos, pode ser necessário apresentar um comprovante de endereço.

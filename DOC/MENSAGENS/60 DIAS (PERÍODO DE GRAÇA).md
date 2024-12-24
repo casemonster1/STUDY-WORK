@@ -1,0 +1,1 @@
+O Aluno, se concluído seu curso de inglês ou graduação, ele tem 60 dias de período de graças( temo de legalidade no país) para tomar uma decisão, se irá voltar para o país de origem ou escolher um outro curso para manter seu status. Geralmente isso acontece muito com Transfer. Um finalizam o curso e tem 60 dias para resolver a vida deles por la

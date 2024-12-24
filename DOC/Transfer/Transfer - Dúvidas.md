@@ -1,0 +1,1 @@
+Após o recebimento da sua carta. Você irá solicitar transferência a sua escola então ela liberará seu sevis e a universidade irá processar um novo i20

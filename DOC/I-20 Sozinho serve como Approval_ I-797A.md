@@ -1,0 +1,1 @@
+O I-20 sozinho não é suficiente para solicitar uma matrícula - precisará fornecer uma prova válida de status como O visto F2 ou I-797A(comprovando a aprovação do status F2) - Sem esses documentos adicionais, a matrícula pode não ser aceita, pois a instituição precisa garantir que o aluno está em status legal nos EUA.

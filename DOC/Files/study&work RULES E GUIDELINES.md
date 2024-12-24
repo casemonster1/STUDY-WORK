@@ -1,0 +1,2 @@
+https://drive.google.com/drive/folders/15sG6egl1OE2_Dd5VePOwUDpwpUYV8TUL?usp=drive_link
+Os documentos oficiais do cliente estao nessa pasta - salvem e usem caso seja necessario para relembrar o cliente
