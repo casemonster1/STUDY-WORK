@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOC/MENSAGENS/Perguntando o nome da universidade.md",
+                "file": "DOC/AVILA/ASSINAR AFFIDAVIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perguntando o nome da universidade"
+              "title": "ASSINAR AFFIDAVIT"
             }
           }
         ],
@@ -237,6 +237,7 @@
   },
   "active": "e9487fac02f6c920",
   "lastOpenFiles": [
+    "DOC/MENSAGENS/Perguntando o nome da universidade.md",
     "DOC/MENSAGENS/Cobrança/perguntando o nome da universidade.md",
     "DOC/MENSAGENS/Cobrança/Como deixar o Duolingo Público (Att 09.24).md",
     "DOC/Change of Status/PRAZO I-20 (CHANGE OF STATUS).md",
@@ -264,7 +265,6 @@
     "DOC/Assinatura do I-20.md",
     "DOC/MENSAGENS/INICIO CONSULTORIA/Form (pós Check-In) + Link Comunidade + Proposta do curso de inglês + Contato Tradutor.md",
     "DOC/MENSAGENS/Cobrança/Análise de documentação.md",
-    "DOC/MENSAGENS/Cobrança/Demorando para enviar documentos.md",
-    "DOC/MENSAGENS/Perguntando o nome da universidade.md"
+    "DOC/MENSAGENS/Cobrança/Demorando para enviar documentos.md"
   ]
 }
