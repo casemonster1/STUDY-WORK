@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "email",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,8 +144,7 @@
               "title": "Demorando para enviar documentos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,7 +235,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9487fac02f6c920",
+  "active": "9e8e001573c084e2",
   "lastOpenFiles": [
     "DOC/MENSAGENS/Cobrança/Como deixar o Duolingo Público (Att 09.24).md",
     "DOC/MENSAGENS/Cobrança/ver 03 Pendências de Documentos para Continuação do Processo de Matrícula.md",
