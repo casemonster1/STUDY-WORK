@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOC/Files/Exemplo 1 - Cobertura.md",
+                "file": "DOC/MENSAGENS/Cobrança/Como deixar o Duolingo Público (Att 09.24).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exemplo 1 - Cobertura"
+              "title": "Como deixar o Duolingo Público (Att 09.24)"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "200",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,8 +144,7 @@
               "title": "Demorando para enviar documentos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -238,6 +237,7 @@
   },
   "active": "e9487fac02f6c920",
   "lastOpenFiles": [
+    "DOC/Files/Exemplo 1 - Cobertura.md",
     "PÓS-VENDA/Mensagem pós-venda.md",
     "DOC/MENSAGENS/Prof. Inglês + Link Comunidade.md",
     "DOC/AVILA/VALORES BACHARELADO - AVILA.md",
@@ -265,7 +265,6 @@
     "DOC/EVALUATION/Evaluation Pronta.md",
     "Pasted image 20241210143646.png",
     "Study&workUSA",
-    "Nova pasta",
-    "DOC/AVILA/AFFIDAVIT TODO ERRADO.md"
+    "Nova pasta"
   ]
 }
