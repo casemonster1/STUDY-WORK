@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOC/AVILA/ASSINAR AFFIDAVIT.md",
+                "file": "DOC/MENSAGENS/Cliente Matriculado/MATRÍCULA ENVIADA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASSINAR AFFIDAVIT"
+              "title": "MATRÍCULA ENVIADA"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "taxa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,8 @@
               "title": "Demorando para enviar documentos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -237,6 +238,8 @@
   },
   "active": "e9487fac02f6c920",
   "lastOpenFiles": [
+    "DOC/Assinatura do I-20.md",
+    "DOC/AVILA/ASSINAR AFFIDAVIT.md",
     "DOC/MENSAGENS/INICIO CONSULTORIA/CRIAR EMAIL.md",
     "DOC/MENSAGENS/Cobrança/Como deixar o Duolingo Público (Att 09.24).md",
     "DOC/MENSAGENS/Cobrança/ver 03 Pendências de Documentos para Continuação do Processo de Matrícula.md",
@@ -244,7 +247,6 @@
     "DOC/MENSAGENS/Prof. Inglês + Link Comunidade.md",
     "DOC/AVILA/Acesso ao sistema, tuition e fees.md",
     "DOC/MENSAGENS/Cobrança/Análise de documentação.md",
-    "DOC/AVILA/ASSINAR AFFIDAVIT.md",
     "PÓS-VENDA/PRÉ-EMBARQUE.md",
     "PÓS-VENDA/PÓS-VENDA.md",
     "DOC/MENSAGENS/Cobrança/perguntando o nome da universidade.md",
@@ -264,7 +266,6 @@
     "DOC/EVALUATION/Cliente não adicionou nenhuma doc no Drive.md",
     "DOC/EVALUATION/Evaluation do Seu Diploma Concluída! 🎓.md",
     "Cliente fala que o link de modelos de curriculum não funciona.md",
-    "DOC/MENSAGENS/Cobrança/Ver 01. - Mensagem cobrança.md",
-    "DOC/MENSAGENS/Cobrança/Ver. 02 - Mensagem cobrança.md"
+    "DOC/MENSAGENS/Cobrança/Ver 01. - Mensagem cobrança.md"
   ]
 }
